@@ -18,4 +18,4 @@ AI evaluation · LLM-as-a-Judge · red-teaming and adversarial testing · agenti
 
 - Website: [drheatherleffew.com](https://drheatherleffew.com)
 - Portfolio: [drheatherleffew.com/projects-repository](https://drheatherleffew.com/projects-repository.html)
-- Affiliation: [Obelus Institute](https://www.obelus.org/)
+- Affiliation: [HAIIQU](https://haiiqu.com/)
